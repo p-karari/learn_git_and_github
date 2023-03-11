@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: chartreuse;
+    border: 2px solid magenta;
+    padding:2rem;
+    font-size: 1rem;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif;
+}

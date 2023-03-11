@@ -28,7 +28,8 @@ pull - doownload changes from a remote repoo to your local machine
  COMMITING 
  ==========
  - Its a two step process , add into the staging area then run commit 
- git add filename //adding the file
+ git add filename //adding the file 
+ git add . //for adding every file that has a change that needs a commit 
  git status // checking the status of the commit
  git commit -m "description of the changes that the new commit is going to do"
  git log //shows all the commints to thr current repo
