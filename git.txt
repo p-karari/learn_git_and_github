@@ -33,3 +33,32 @@ pull - doownload changes from a remote repoo to your local machine
  git status // checking the status of the commit
  git commit -m "description of the changes that the new commit is going to do"
  git log //shows all the commints to thr current repo
+
+
+COMIT HISTORY
+==============
+- To retrack your previous commits and make changes
+git checkout commit-harsh
+git checkout master // to go back to the master branch after the checkout commit-harsh which breaks you out the master
+
+
+BRANCHES
+=========
+-individual timeline for your project commits
+git branch // lists out all the branches in the current repo
+
+CREATING A NEW BRANCHES
+=======================
+git branch new-branch-name // adds a new branch in the master in the current repo
+
+MRERGING THE VARIOUS BRANCHES
+==============================
+-merging the branches to the master
+git merge branchName // 
+
+
+
+
+
+
+ 
