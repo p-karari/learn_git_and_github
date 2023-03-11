@@ -1,0 +1,32 @@
+Git - is a version control system
+commandline interface - CLI 
+ repository - project folder where your project is located
+Github - Website to host your repositories online
+
+GIT COMMANDS
+============
+clone - allows you to use a repository that is hosted somewhere else on your local machine
+add - for tracking changes in your project
+comit - save your files in Git
+push - upload git commits to a remote repo like Github
+pull - doownload changes from a remote repoo to your local machine
+ 
+ CONFIGURING GIT
+ ===============
+ git config --global user.name "your name"
+ git config --global user.email "your@email.com"
+
+ INITIALIZING A REPOSITORY 
+ =========================
+ git init 
+
+ CHECKING THE STATUS 
+ ===================
+ - to check the status of yur repo
+ git status 
+
+ COMMITING 
+ ==========
+ - Its a two step process , add into the staging area then run commit 
+ git add filename
+ 
