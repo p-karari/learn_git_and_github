@@ -59,7 +59,7 @@ git merge branchName //
 PUSHING CODE TO GITHUB 
 =======================
 git remote add origin <paste repository link from github>
-git push origin master
+git push -u origin main
 
 
 
