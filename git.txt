@@ -56,6 +56,11 @@ MRERGING THE VARIOUS BRANCHES
 -merging the branches to the master
 git merge branchName // 
 
+PUSHING CODE TO GITHUB 
+=======================
+git remote add origin <paste repository link from github>
+git push origin master
+
 
 
 
